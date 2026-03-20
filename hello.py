@@ -20,4 +20,3 @@ while True:
     else:
         print(f"정답입니다! {attempts}번 만에 맞췄네요.")
         break # 반복문 탈출
-
